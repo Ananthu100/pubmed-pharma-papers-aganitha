@@ -35,11 +35,11 @@ results.csv # Output file with filtered paper details
 
 Make sure you have Python (≥3.9 recommended) and [Poetry](https://python-poetry.org/) installed.
 
-### 1. Clone the Repository
+###  Clone the Repository
 ```bash
 git clone https://github.com/Ananthu100/pubmed-pharma-papers-aganitha.git
 cd pubmed-pharma-papers-aganitha
-2. Install Dependencies
+ Install Dependencies
 poetry install
 
 Run the tool with a query:
